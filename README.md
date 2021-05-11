@@ -9,7 +9,7 @@ The purpose is to learn and train.
 
 ### Example 1 - Checkout
 
-A very basic checkout developed by TDD approach, about 60 minutes. 
+A very basic checkout developed with TDD, a quick test tooked about 60 minutes. 
 
 Supports products with discounts, and global promotions (2 examples). 
 
